@@ -1,0 +1,3 @@
+[submodule "hypervoter"]
+	path = hypervoter
+	url = https://github.com/harpreetvirkk/HyperVoter.git
